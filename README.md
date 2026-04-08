@@ -25,4 +25,3 @@ En este sentido, el problema de investigación se centra en determinar en qué m
 # Fuentes de datos
 1. ECV 2023 – DANE (módulos TIC y vivienda)
 2. Índice de Pobreza Multidimensional (IPM 2023)
-3. Tecnologias.csv (archivo superior a 25MB): https://drive.google.com/file/d/1rHZpBuW6BpRVrmfSPWvYU4uk8j-jgFm9/view?usp=sharing 
